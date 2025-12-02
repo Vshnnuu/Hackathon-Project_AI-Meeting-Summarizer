@@ -1,0 +1,15 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.vscode/
+.venv/
+.env
+.DS_Store
+*.zip
+*.mp3
+*.wav
+*.m4a
