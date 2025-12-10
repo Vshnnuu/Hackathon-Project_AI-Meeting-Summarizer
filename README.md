@@ -1,5 +1,5 @@
 # AI Meeting Summarizer & Action Tracker
-
+Live Demo URL: https://meeting-summarizer-735199411680.europe-west3.run.app/
 A hackathon-friendly project that takes in meeting transcripts and produces:
 - A concise summary
 - Key decisions
