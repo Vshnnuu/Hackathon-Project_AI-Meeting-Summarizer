@@ -17,6 +17,7 @@ A hackathon-friendly project that takes in meeting transcripts and produces:
 - **Python 3.11 + Streamlit** UI
 - **SQLite** for simple persistence
 - **Docker** for portable deployment
+- Google Cloud Run
 
 ## Quick Start (Local)
 1) Create a virtualenv and install deps:
